@@ -13,6 +13,7 @@ body{
 li,a{
   font-family: "montserrat",sans-serif;
   font-weight:500;
+  align-items: center;
   font-size:16px;
   color: #ecf0f1;
   text-decoration: none;
