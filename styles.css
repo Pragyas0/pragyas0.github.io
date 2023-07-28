@@ -38,22 +38,7 @@ position: absolute;
 bottom: 40px;
 width: 170px;
 background-color: brown;
-    }
-.home-sci a{
-  display: inline-flex;
-  width: 40px;
-  height:40px;
-  background: transparent;
-  border: 2px solid blue;
-  border-radius: 50%;
-  font-size: 20px;
-  color: red;
-  text-decoration: none;
-}
-  
-  
-
-
+    }  
 .prof{
   margin-right:auto;
   display:flex;
