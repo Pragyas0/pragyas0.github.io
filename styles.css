@@ -32,6 +32,13 @@ header{
   background-color: transparent;
   z-index: 100;
 }
+    .home-sci{
+position: absolute;
+bottom: 40px;
+width: 170px;
+background-color: brown;
+    }
+
 
 .prof{
   margin-right:auto;
