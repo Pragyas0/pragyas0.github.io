@@ -37,6 +37,25 @@ header{
   z-index: 100;
 }
 
+    .home-sci{
+position:absolute;
+bottom: 40px;
+width: 170px;
+    }
+    .home-sci a{
+        display: inline-flex;
+        justify-content: center;
+        width: 40px;
+        height:40px;
+        background: transparent;
+        border: 2px solid #0088a9;
+        border-radius: 50%;
+        font-size: 20px;
+        color: #ecf0f1;
+        text-decoration: none;
+    }
+
+
 .prof{
   margin-right:auto;
   display:flex;
