@@ -111,3 +111,9 @@ z-index: -1;
 
 }
 
+.home-sci {
+    position: absolute;
+    bottom: 40px;
+    width: 170x;
+    background: red;
+}
