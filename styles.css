@@ -46,12 +46,12 @@ header{
     height: 75vh;
     padding:0 10% ;
   background:url('poo.png') no-repeat ;
-  background-size:cover ;
+  background-size:auto ;
   background-position:right;
 ba
 }
 .home-some{
-    max-width: 600px;
+    max width: 60px;
 }
 .home-some h2 {
     font-size: 56px;
