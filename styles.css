@@ -115,7 +115,6 @@ z-index: -1;
     position: absolute;
     bottom: 40px;
     width: 170x;
-    background: red;
     display: flex;
     justify-content: space-between;
 }
