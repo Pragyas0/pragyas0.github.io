@@ -18,8 +18,21 @@ li,a{
   font-size:16px;
   color:red;
   text-decoration: none;
+  
 }
-
+header{
+  display:flex; 
+  justify-content: space-between;
+  align-items: right;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding:30px 10%;
+  box-sizing:border-box;
+  background-color: transparent;
+  z-index: 100;
+}
 
 .prof{
   margin-right:auto;
