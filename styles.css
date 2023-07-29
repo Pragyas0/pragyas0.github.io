@@ -117,3 +117,14 @@ z-index: -1;
     width: 170x;
     background: red;
 }
+.home-sci a {
+    display: inline-flex;
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    border: 2px solid skyblue;
+    border-radius: 50%;
+    font-size: 20px;
+    color: skyblue;
+    
+}
