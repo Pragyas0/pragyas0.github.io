@@ -39,18 +39,16 @@ header{
   z-index: 100;
   padding: 20px 10%;
 }
-.home-sci{
-    position: absolute;
-    bottom: 40px;
-}
-
 
 .home{
     display: flex;
     text-align: left;
     height: 75vh;
     padding:0 10% ;
-
+  background:url('poo.png') no-repeat ;
+  background-size:cover ;
+  background-position: center;
+ba
 }
 .home-some{
     max-width: 600px;
@@ -110,7 +108,6 @@ header{
 z-index: -1;
 
 }
-
 
     .home-sci{
 position:absolute;
