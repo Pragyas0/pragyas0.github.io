@@ -37,7 +37,9 @@ header{
   box-sizing:border-box;
   background-color: transparent;
   z-index: 100;
+  padding: 20px 10%;
 }
+
 .home{
     display: flex;
     align-items: center;
