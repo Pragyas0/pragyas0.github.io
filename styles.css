@@ -12,7 +12,10 @@ body{
   padding:0;
 
 }
-
+#icon{
+  width: 30px;
+  cursor: pointer;
+}
 
 li,a{
   font-family: "montserrat",sans-serif;
