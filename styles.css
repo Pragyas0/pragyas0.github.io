@@ -43,7 +43,7 @@ header{
 
 .home{
     display: flex;
-    align-items: center;
+    align-items: left;
     height: 50vh;
     padding:0 10% ;
 
