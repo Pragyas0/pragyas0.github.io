@@ -39,11 +39,14 @@ header{
   z-index: 100;
   padding: 20px 10%;
 }
+.home-sci{
+    position: absolute;
+    bottom: 40px;
+}
 
 
 .home{
     display: flex;
-    align-items: left;
     text-align: left;
     height: 50vh;
     padding:0 10% ;
