@@ -136,6 +136,9 @@ z-index: -1;
 
 
 }
+.home-sci a:hover{
+    color: blue;
+}
 .home-sci a::before {
     content: '';
     position: absolute;
