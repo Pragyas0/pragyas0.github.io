@@ -10,9 +10,7 @@ body{
   margin:0;
   padding:0;
 }
-.hero{
-background-image: ll.png;
-}
+
 
 li,a{
   font-family: "montserrat",sans-serif;
@@ -124,7 +122,6 @@ footer{
   color:rgba(0,136,169,0.85);
   transition: all 0.35s ease 0s;
 }
-=======
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
 html {
@@ -136,9 +133,7 @@ body{
   margin:0;
   padding:0;
 }
-.hero{
-background-image: ll.png;
-}
+
 
 li,a{
   font-family: "montserrat",sans-serif;
