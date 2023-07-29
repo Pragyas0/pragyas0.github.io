@@ -48,11 +48,12 @@ header{
     display: flex;
     align-items: center;
     height: 50vh;
-    
+    padding:0 10% ;
 
 }
 .home-some{
     max-width: 600px;
+    background: #0088a9;
 }
 .home-some h2 {
     font-size: 56px;
