@@ -44,6 +44,7 @@ header{
 .home{
     display: flex;
     align-items: left;
+    text-align: left;
     height: 50vh;
     padding:0 10% ;
 
