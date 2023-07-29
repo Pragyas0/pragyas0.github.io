@@ -76,11 +76,19 @@ header{
     text-decoration: none;
     font-weight: 600;
     letter-spacing: 1px;
+    overflow: hidden;
+    transition: .5s;
 
 }
 .btn-box a:nth-child(2){
     background:transparent;
     color: aqua;
+}
+.btn-box a:nth-child(2):hover{
+    color: black;
+
+.btn-box a:nth-child(2){
+    background: #0088a9;
 }
 .btn-boxa::before{
     content: '';
@@ -93,6 +101,7 @@ header{
 z-index: -1;
 
 }
+
 
     .home-sci{
 position:absolute;
