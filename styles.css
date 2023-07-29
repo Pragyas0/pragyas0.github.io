@@ -39,6 +39,10 @@ header{
   z-index: 100;
   padding: 20px 10%;
 }
+.photo {
+    width: 500px;
+    height: auto;
+}
 
 .home{
     display: flex;
