@@ -80,13 +80,18 @@ header{
     transition: .5s;
 
 }
+.btn-box a:hover {
+    color: #0088a9;
+
+}
+
 .btn-box a:nth-child(2){
     background:transparent;
     color: aqua;
 }
 .btn-box a:nth-child(2):hover{
     color: black;
-
+}
 .btn-box a:nth-child(2){
     background: #0088a9;
 }
