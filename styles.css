@@ -116,9 +116,13 @@ z-index: -1;
     bottom: 40px;
     width: 170x;
     background: red;
+    display: flex;
+    justify-content: space-between;
 }
 .home-sci a {
     display: inline-flex;
+    justify-content: center;
+    align-items: center;
     width: 40px;
     height: 40px;
     background: transparent;
@@ -126,5 +130,20 @@ z-index: -1;
     border-radius: 50%;
     font-size: 20px;
     color: skyblue;
-    
+    text-decoration: none;
+    z-index: 1;
+    overflow: hidden;
+
+
+}
+.home-sci a::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background:red;
+    z-index: -1;
+
 }
