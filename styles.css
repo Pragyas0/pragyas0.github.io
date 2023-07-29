@@ -54,7 +54,7 @@ header{
 .home-some h2 {
     font-size: 56px;
     font-weight: 700;
-    
+    line-height : 1.2;    
 }
 .home-some .btn-box {
     width: 350px;
@@ -63,11 +63,24 @@ header{
 
 }
 .btn-box a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
     width: 150px;
     height: 100%;
     background:blue ;
     border-radius:8px ;
     border: 2px solid skyblue;
+    font: size 20px;
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: 1px;
+
+}
+.btn-box a:nth-child(2){
+    background:transparent;
+    color: aqua;
 }
 
     .home-sci{
