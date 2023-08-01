@@ -48,8 +48,12 @@ gap: 20px;
     display: inline-block;
     color: aliceblue;
 text-decoration: none;
-text transform: capitalize;}
+text transform: capitalize;
+transition:0.2s;
+}
 .nav_links{
+    gap: 20px;
+    list-style: none;
 
 }
 .navbar a:hover {
