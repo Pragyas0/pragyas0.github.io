@@ -34,7 +34,7 @@ header{
 }
 .navbar{
     justify-content: space-between;
-    background-color: black;
+    background-color: transparent;
 }
 .nav-links{
     gap: 20px;
