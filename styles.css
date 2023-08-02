@@ -43,5 +43,5 @@ background: transparent
     text-transform: capitalize;
 }
 .navbar a:hover {
-    color: #fff;
+    color: red;
 }
