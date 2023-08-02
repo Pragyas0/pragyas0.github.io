@@ -7,3 +7,24 @@
     box-sizing: border-box;
     font-family:"Poppins", sans-serif;
 }
+header{
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+background: maroon;
+}
+    .flex {
+        display: flex;
+        align-items: center;
+    }
+    .container{
+        background: red;
+        max-width: 1000px;
+        width: 100%;
+        
+    }
+.navbar {
+    justify-content: space-between;
+
+}
