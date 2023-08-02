@@ -44,7 +44,7 @@ header{
 .navbar a{
     padding: 20px 0;
     display: inline-block;
-    color: #fff;
+    color:maroon;
     text-decoration: none;
     text-transform: capitalize;
     transition: 0.2s;
