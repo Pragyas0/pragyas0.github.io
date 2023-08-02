@@ -122,6 +122,7 @@ section{
     color: var(--secondary-color);
     margin-right: 20px;
     transition: all 0.3s ease 0s;
+    gap: 10px;
 }
 .social-links a:hover{
     color: red;
