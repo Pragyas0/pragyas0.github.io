@@ -37,7 +37,12 @@ background: transparent
 }
 
 .navbar a{
+    padding: 20px 0;
+    display: inline-block;
     color: #fff;
     text-decoration: none;
     text-transform: capitalize;
+}
+.navbar a:hover {
+    columns: ;
 }
