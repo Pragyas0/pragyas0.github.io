@@ -63,6 +63,7 @@ background: transparent
     background: rgba(0, 0,0, 0);
 }
 .homepage .content{
+    position: relative;
     height: 85%;
     flex-direction: column;
     justify-content: center;
@@ -72,8 +73,16 @@ background: transparent
     text-align: center;
 
 }
-.homepage.tex h1{
+.homepage.text h1{
     font-size: 60px;
     font-weight: 700
     margin-bottom:10px;
+}
+.homepage .a{
+    color: #333;
+    text-decoration: none;
+    background: #fff;
+    padding: 10px 30px;
+    border-radius: 5px;
+    border: 2px solid #fff;
 }
