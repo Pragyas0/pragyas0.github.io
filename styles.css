@@ -61,5 +61,10 @@ background: transparent
 .homepage.text{
     color: #fff;;
     text-align: center;
-    
+
+}
+.homepage.tex h1{
+    font-size: 60px;
+    font-weight: 700
+    margin-bottom:10px;
 }
