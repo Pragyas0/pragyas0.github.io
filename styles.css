@@ -39,7 +39,7 @@ header{
 .nav-links{
     gap: 20px;
     list-style: none;
-    background-color: black;
+    background-color: transparent;
 }
 .navbar a{
     padding: 20px 0;
