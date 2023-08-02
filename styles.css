@@ -53,6 +53,13 @@ background: transparent
     background-position: center;
     background-size: cover;
 }
+.homepage::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0,0, 0);
+}
 .homepage .content{
     height: 85%;
     flex-direction: column;
