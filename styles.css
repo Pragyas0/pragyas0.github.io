@@ -110,6 +110,9 @@ section{
 section h2{
     font-size: 2rem;
 }
+section .card{
+    width: calc(100%/3 -30px);
+}
 section .card img{
     height: 120px;
     width: 120px;
