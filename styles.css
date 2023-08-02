@@ -81,6 +81,9 @@ ba
 .home-some h4 {
     font-size: 60px;
     font-weight: 800;
+    text-decoration: none;
+    text-align: left;
+    align-items: center;
 text-align: left;
 }.home-some .btn-box {
     width: 350px;
