@@ -31,6 +31,8 @@ background: transparent
 }
 .navbar a{
     color: #fff;
+    text-decoration: none;
+    text-transform: capitalize;
 }
 .nav-links{
     gap: 20px;
