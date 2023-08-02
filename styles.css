@@ -107,7 +107,15 @@ section{
 .section-title{
     text-align: center;
 }
+section h2{
+    font-size: 2rem;
+}
+section .card img{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
 
+}
 .btn-box a {
     position: relative;
     display: inline-flex;
