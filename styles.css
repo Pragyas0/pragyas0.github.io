@@ -19,9 +19,10 @@ background: maroon;
         align-items: center;
     }
     .container{
-        background: red;
-        max-width: 1000px;
+        background:transparent
+        max-width: 1200px;
         width: 100%;
+        margin: 0 auto;
         
     }
 .navbar {
