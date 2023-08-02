@@ -128,3 +128,16 @@ section{
     color: red;
     transition: all 0.3s ease 0s;
 }
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: black;
+    color: white;
+    font-style: sans-serif;
+    font-weight: 300;
+}
+footer a{
+    font-style: italic;
+    font-weight: 100;
+    color: #fff;
+}
