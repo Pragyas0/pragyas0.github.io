@@ -5,10 +5,7 @@
     box-sizing: border-box;
     font-family: "Poppins",sans-serif;
 }
-:root{
-    --primary-color:#fff;
-    --secondary-color: #edf1fc;
-}
+
 
 header{
     position: fixed;
@@ -23,7 +20,7 @@ header{
     align-items: center;
 }
 .container{
-    background-color: #333;
+
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
@@ -36,7 +33,7 @@ header{
 .nav-links{
     gap: 20px;
     list-style: none;
-    background-color: transparent;
+
 }
 .navbar a{
     padding: 20px 0;
