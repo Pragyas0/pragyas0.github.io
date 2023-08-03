@@ -9,10 +9,7 @@
     --primary-color:#212121;
     --secondary-color: #edf1fc;
 }
-.dark-theme{
-    --primary-color:#fff;
-    --secondary-color: #212121;
-}
+
 header{
     position: fixed;
     top: 0;
