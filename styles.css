@@ -20,7 +20,7 @@ header{
     align-items: center;
 }
 .container{
-
+background-color: #fff;
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
@@ -28,12 +28,12 @@ header{
 }
 .navbar{
     justify-content: space-between;
-
+background-color: #fff;
 }
 .nav-links{
     gap: 20px;
     list-style: none;
-
+background-color: #fff;
 }
 .navbar a{
     padding: 20px 0;
