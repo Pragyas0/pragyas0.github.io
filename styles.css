@@ -126,7 +126,7 @@ section .card img{
     align-items: center;
     width: 150px;
     height: 100%;
-    background:blue ;
+    background: #0088a9 ;
     border-radius:8px ;
     border: 2px solid skyblue;
     font: size 20px;
@@ -144,7 +144,7 @@ section .card img{
 }
 
 .btn-box a:nth-child(2){
-    background: black;
+    background: transparent;
     color: #0088a9
 }
 .btn-box a:nth-child(2):hover{
