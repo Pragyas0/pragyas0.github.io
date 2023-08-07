@@ -124,8 +124,8 @@ header{
 }
 
 .btn-box a:nth-child(2){
-    background: black;
-    color: #0088a9
+    background: transparent;
+    color: #0088a9;
 }
 .btn-box a:nth-child(2):hover{
     color: black;
@@ -133,15 +133,23 @@ header{
 .btn-box a:nth-child(2){
     background: #0088a9;
 }
-.btn-boxa::before{
+.btn-box a:nth-child(2)::before{
+    background: #00abf0;
+}
+.btn-box a::before{
     content: '';
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background: red;
+    background:#081b29;
 z-index: -1;
+transition: .5s;
+
+}
+.btn-box a:hover::before {
+    width: 100%;
 
 }
 .social-links{
