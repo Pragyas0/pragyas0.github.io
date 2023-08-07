@@ -60,7 +60,7 @@ header{
     width: 100%;
     top: 0;
     left: 0;
-
+    background: rgba(0, 0, 0, 0.2);
 }
 .homepage .content{
     position: relative;
@@ -79,7 +79,7 @@ header{
     margin-bottom: 10px;
 }
 .homepage a{
-    
+    color: #333;
     display: flex;
     text-decoration: none;
     text-align: center;
@@ -91,7 +91,7 @@ header{
     transition: 0.3s;
 }
 .homepage a:hover{
-   
+    color: black;
     background: rgba(255, 255, 255, 0.3);
     transition: all 0.3s ease 0s;
 }
@@ -172,7 +172,7 @@ z-index: -1;
     align-items: center;
     text-align: center;
     margin-bottom: 0%;
-    
+    s
 } 
 .Social-title a{
     text-align: center;
