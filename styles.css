@@ -83,7 +83,7 @@ background-color:black;
     display: flex;
     text-decoration: none;
     text-align: center;
-    background:white;
+    background:black
     padding: 10px 15px;
     border-radius: 20px;
     border: 2px solid rgba(0, 0, 0, 0.2);
@@ -91,8 +91,8 @@ background-color:black;
     transition: 0.3s;
 }
 .homepage a:hover{
-    color: white;
-    background: black
+    color: black;
+    background: black;
     transition: all 0.3s ease 0s;
 }
 section{
@@ -103,7 +103,7 @@ section{
 }
 section h2{
     font-size: 2rem;
-    color:black
+    color:#fff
 }
 section .card{
     margin-top: 50px;
@@ -126,7 +126,7 @@ section .card img{
     align-items: center;
     width: 150px;
     height: 100%;
-    background: #0088a9 ;
+    background:#0088a9 ;
     border-radius:8px ;
     border: 2px solid skyblue;
     font: size 20px;
@@ -144,7 +144,7 @@ section .card img{
 }
 
 .btn-box a:nth-child(2){
-    background: transparent;
+    background: black;
     color: #0088a9
 }
 .btn-box a:nth-child(2):hover{
