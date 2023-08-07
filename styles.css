@@ -20,7 +20,7 @@ header{
     align-items: center;
 }
 .container{
-background-color: #fff;
+background-color:black;
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
@@ -28,12 +28,12 @@ background-color: #fff;
 }
 .navbar{
     justify-content: space-between;
-background-color: #fff;
+background-color:black;
 }
 .nav-links{
     gap: 20px;
     list-style: none;
-background-color: #fff;
+background-color:black;
 }
 .navbar a{
     padding: 20px 0;
@@ -69,7 +69,7 @@ background-color: #fff;
     justify-content: center;
 }
 .homepage .text{
-    color:#fff;
+    color:blac;
     text-align: center;
     margin-bottom: 50px;
 }
@@ -83,7 +83,7 @@ background-color: #fff;
     display: flex;
     text-decoration: none;
     text-align: center;
-    background: rgb(173, 112, 230);
+    background:black
     padding: 10px 15px;
     border-radius: 20px;
     border: 2px solid rgba(0, 0, 0, 0.2);
