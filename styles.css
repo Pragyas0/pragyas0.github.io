@@ -131,7 +131,7 @@ header{
     color: black;
 }
 .btn-box a:nth-child(2){
-    background: #0088a9;
+    background:black;
 }
 .btn-box a:nth-child(2)::before{
     background: #00abf0;
