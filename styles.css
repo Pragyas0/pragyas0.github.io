@@ -125,13 +125,13 @@ header{
 
 .btn-box a:nth-child(2){
     background: transparent;
-    color: #0088a9;
+    color: black;
 }
 .btn-box a:nth-child(2):hover{
     width: 100%;
 }
 .btn-box a:nth-child(2){
-    background:#0088a9;
+    background:black;
 }
 .btn-box a:nth-child(2)::before{
     content: '';
