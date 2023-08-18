@@ -84,7 +84,7 @@ body{
     display: flex;
     text-decoration: none;
     text-align: center;
-    background: rgb(173, 112, 230);
+    background:#00abf0;
     padding: 10px 15px;
     border-radius: 20px;
     border: 2px solid rgba(0, 0, 0, 0.2);
